@@ -1,0 +1,14 @@
+body{
+  font-family: Arial;
+  background-color: gray;
+}
+button{
+  background-color: yellowgreen;
+  color: green;
+  scale: 200%;
+  margin: 20px;
+}
+*{
+  margin: 20px;
+}
+

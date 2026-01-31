@@ -1,0 +1,23 @@
+body{
+  background-color: #43bafa;
+  font-family: Arial;
+
+}
+.redes{
+  font-family: Arial;
+  color: rgb(255, 0, 0);
+  font-size: 20px;
+}
+.texto{
+  font-family: Arial;
+  color: #2e2e2e;
+  font-size: 20px;
+  text-align: justify;
+}
+*{
+  margin: 20px;
+}
+span{
+  color: rgb(255, 94, 0);
+}
+
